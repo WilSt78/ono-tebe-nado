@@ -1,1 +1,1 @@
-https://github.com/WilSt78/ono-tebe-nado
+https://github.com/WilSt78/ono-tebe-nado.git
